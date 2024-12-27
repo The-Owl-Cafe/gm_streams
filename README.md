@@ -1,3 +1,5 @@
+# NOTICE: Owl cafe is moving away from the use of binary modules. This will exist for research purposes
+
 # gm_streams
 Shit code used by OAS.  Feel free to use
 
